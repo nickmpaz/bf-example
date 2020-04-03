@@ -5,3 +5,6 @@ a Lambda Function which uses git to clone the repository and create the blog.
 .
 The step's details are created by diffing the commit with the previous one.
 .
+.
+Generate your next blog with Blogformation's Blog As Code™ technology.
+.
